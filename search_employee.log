@@ -1,0 +1,16 @@
+Line 22: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 54: Class MSComCtl2.DTPicker of control DTPicker2 was not a loaded control class.
+Line 66: Class MSComCtl2.DTPicker of control DTPicker1 was not a loaded control class.
+Line 25: The property name _ExtentX in CommonDialog1 is invalid.
+Line 26: The property name _ExtentY in CommonDialog1 is invalid.
+Line 27: The property name _Version in CommonDialog1 is invalid.
+Line 60: The property name _ExtentX in DTPicker2 is invalid.
+Line 61: The property name _ExtentY in DTPicker2 is invalid.
+Line 62: The property name _Version in DTPicker2 is invalid.
+Line 63: The property name Format in DTPicker2 is invalid.
+Line 64: The property name CurrentDate in DTPicker2 is invalid.
+Line 72: The property name _ExtentX in DTPicker1 is invalid.
+Line 73: The property name _ExtentY in DTPicker1 is invalid.
+Line 74: The property name _Version in DTPicker1 is invalid.
+Line 75: The property name Format in DTPicker1 is invalid.
+Line 76: The property name CurrentDate in DTPicker1 is invalid.
