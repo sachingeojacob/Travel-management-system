@@ -1,4 +1,4 @@
-# Travelogram---Tour-management-system
+# Travel-management-system (Travelogram)
 
 ### About Travelogram
 
